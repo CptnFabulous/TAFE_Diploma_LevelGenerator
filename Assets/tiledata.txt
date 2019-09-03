@@ -1,0 +1,8 @@
+name: PlayerSpawn
+colour: #FF0000
+name: PlayerGoal
+colour: #00FF00
+name: TestTerrain
+colour: #000000
+name: Coin
+colour: #FFFF00
